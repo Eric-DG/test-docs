@@ -170,7 +170,7 @@
       "js": [
         {
           "file": "assets/js/runtime~main.52ae040c.js",
-          "hash": "b1e2d2fec5a44e38",
+          "hash": "770aa822c41cf5d3",
           "publicPath": "/test-docs/assets/js/runtime~main.52ae040c.js"
         }
       ]
@@ -250,9 +250,9 @@
     "792": {
       "js": [
         {
-          "file": "assets/js/main.1ec30159.js",
-          "hash": "028e479ee5634ea1",
-          "publicPath": "/test-docs/assets/js/main.1ec30159.js"
+          "file": "assets/js/main.476f65ce.js",
+          "hash": "0d048756d8c4bf7f",
+          "publicPath": "/test-docs/assets/js/main.476f65ce.js"
         }
       ]
     },

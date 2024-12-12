@@ -9,8 +9,9 @@ export default {
   "favicon": "img/favicon.ico",
   "url": "https://eric-dg.github.io",
   "baseUrl": "/test-docs/",
-  "organizationName": "facebook",
-  "projectName": "docusaurus",
+  "organizationName": "Eric-DG",
+  "projectName": "test-docs",
+  "trailingSlash": false,
   "onBrokenLinks": "ignore",
   "onBrokenMarkdownLinks": "ignore",
   "i18n": {

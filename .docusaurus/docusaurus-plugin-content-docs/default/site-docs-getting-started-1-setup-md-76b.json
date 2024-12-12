@@ -1,0 +1,21 @@
+{
+  "id": "Getting-Started/setup",
+  "title": "Setup Guide",
+  "description": "After installing test-docs, follow these steps to configure the project:",
+  "source": "@site/docs/Getting-Started/1-setup.md",
+  "sourceDirName": "Getting-Started",
+  "slug": "/Getting-Started/setup",
+  "permalink": "/test-docs/docs/Getting-Started/setup",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Getting-Started/1-setup.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Installation Guide",
+    "permalink": "/test-docs/docs/Getting-Started/installation"
+  }
+}

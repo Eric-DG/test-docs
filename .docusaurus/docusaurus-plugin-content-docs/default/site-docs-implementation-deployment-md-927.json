@@ -1,0 +1,24 @@
+{
+  "id": "implementation/deployment",
+  "title": "Deployment",
+  "description": "Deploy test-docs to make your documentation live.",
+  "source": "@site/docs/implementation/deployment.md",
+  "sourceDirName": "implementation",
+  "slug": "/implementation/deployment",
+  "permalink": "/docs/implementation/deployment",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/implementation/deployment.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Configuration",
+    "permalink": "/docs/implementation/configuration"
+  },
+  "next": {
+    "title": "Implementation Overview",
+    "permalink": "/docs/implementation/overview"
+  }
+}

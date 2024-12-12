@@ -1,0 +1,25 @@
+{
+  "id": "Getting-Started/installation",
+  "title": "Installation Guide",
+  "description": "This section explains how to set up test-docs on your local machine.",
+  "source": "@site/docs/Getting-Started/2-installation.md",
+  "sourceDirName": "Getting-Started",
+  "slug": "/Getting-Started/installation",
+  "permalink": "/test-docs/docs/Getting-Started/installation",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Getting-Started/2-installation.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Setup Guide",
+    "permalink": "/test-docs/docs/Getting-Started/setup"
+  },
+  "next": {
+    "title": "Introduction",
+    "permalink": "/test-docs/docs/Getting-Started/intro"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/test-docs/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/test-docs/docs",
+          "mainDocId": "Getting-Started/setup",
+          "docs": [
+            {
+              "id": "Getting-Started/installation",
+              "path": "/test-docs/docs/Getting-Started/installation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Getting-Started/intro",
+              "path": "/test-docs/docs/Getting-Started/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Getting-Started/setup",
+              "path": "/test-docs/docs/Getting-Started/setup",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Guides/advance-usage",
+              "path": "/test-docs/docs/Guides/advance-usage",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Guides/how-to-use",
+              "path": "/test-docs/docs/Guides/how-to-use",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Implementation/configuration",
+              "path": "/test-docs/docs/Implementation/configuration",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Implementation/deployment",
+              "path": "/test-docs/docs/Implementation/deployment",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Implementation/overview",
+              "path": "/test-docs/docs/Implementation/overview",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/test-docs/docs/Getting-Started/setup",
+                "label": "Getting-Started/setup"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

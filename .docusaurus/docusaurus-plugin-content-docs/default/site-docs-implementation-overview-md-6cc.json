@@ -1,0 +1,20 @@
+{
+  "id": "implementation/overview",
+  "title": "Implementation Overview",
+  "description": "This section provides an overview of how test-docs was implemented using Docusaurus.",
+  "source": "@site/docs/implementation/overview.md",
+  "sourceDirName": "implementation",
+  "slug": "/implementation/overview",
+  "permalink": "/docs/implementation/overview",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/implementation/overview.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Deployment",
+    "permalink": "/docs/implementation/deployment"
+  }
+}
